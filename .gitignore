@@ -13,10 +13,17 @@ Cargo.lock
 *.swo
 *~
 
+# Python
+/.venv/
+__pycache__/
+*.py[cod]
+
 # Folders
 /RLSS
 /Coding
 /ML
+/FractionalKelly
+/Interviews
 
 # OS
 .DS_Store
